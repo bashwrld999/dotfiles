@@ -1,0 +1,12 @@
+Script started on 2025-02-16 18:28:05+01:00 [COMMAND="bash /home/bashwrld/dev/dotfiles/scripts/0-preinstall.sh" TERM="xterm-256color" TTY="/dev/pts/6" COLUMNS="166" LINES="17"]
+:: Synchronizing package databases...
+ core
+ extra
+ multilib
+ core is up to date extra is up to date multilib is up to date
+--------------------------------------------------------------------
+                      Installing Prerequisites
+--------------------------------------------------------------------
+/home/bashwrld/dev/dotfiles/scripts/dialogs/mainmenu.sh: line 13: /home/bashwrld/dev/dotfiles/scripts/dialogs/menu.sh: No such file or directory
+/home/bashwrld/dev/dotfiles/scripts/dialogs/mainmenu.sh: line 53: menu: command not found
+Script done on 2025-02-16 18:28:06+01:00 [COMMAND_EXIT_CODE="127"]
