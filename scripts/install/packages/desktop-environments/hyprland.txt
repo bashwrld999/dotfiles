@@ -1,0 +1,2 @@
+hyprland
+--END OF MINIMAL INSTALL--

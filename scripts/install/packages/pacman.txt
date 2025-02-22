@@ -146,12 +146,6 @@ pacman-contrib
 partitionmanager
 patch
 pavucontrol
-php-cgi
-php
-php-apache
-php-cgi
-php-gd
-picom
 pkgconf
 powerline-fonts
 powertop
@@ -169,6 +163,7 @@ simple-scan
 #snapper
 solaar
 speedtest-cli
+starship
 steam
 swtpm
 telegram-desktop
@@ -186,6 +181,8 @@ tldr
 traceroute
 tree
 ttf-droid
+ttf-firacode-nerd
+ttf-fira-code
 ttf-hack
 ttf-roboto
 ufw
