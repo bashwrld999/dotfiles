@@ -1,2 +1,3 @@
 hyprland
+kitty
 --END OF MINIMAL INSTALL--
