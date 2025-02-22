@@ -1,3 +1,4 @@
 hyprland
 kitty
+sddm
 --END OF MINIMAL INSTALL--

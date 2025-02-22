@@ -43,10 +43,12 @@ echo -ne "
                    Enabling Login Display Manager
 --------------------------------------------------------------------
 "
-if [ "$DESKTOP_ENV" = "kde" | "$DESKTOP_ENV" = "hyprland" ]; then
+if [ "$DESKTOP_ENV" = "kde" ]; then
   systemctl enable sddm.service
   echo -e "[Theme]\nCurrent=breeze" > /etc/sddm.conf
   echo "/home/$USERNAME/bin/xrandr-display" >> /usr/share/sddm/scripts/Xsetup
+elif [ "$DESKTOP_ENV" = "hyprland" ]; then
+  systemctl enable sddm.service
 elif [ "$DESKTOP_ENV" = "gnome" ]; then
   systemctl enable gdm.service
 elif [ "$DESKTOP_ENV" = "lxde" ]; then
