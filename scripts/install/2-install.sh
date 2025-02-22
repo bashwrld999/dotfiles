@@ -10,6 +10,8 @@
 SCRIPT_DIR="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 BASENAME="$( basename $SCRIPT_DIR)"
 
+chmod -R +x $SCRIPT_DIR/functions
+
 $SCRIPT_DIR/functions/install/microcode.sh
 $SCRIPT_DIR/functions/install/graphics-drivers.sh
 
