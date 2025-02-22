@@ -1,0 +1,29 @@
+brave-bin # Brave Browser
+--END OF MINIMAL INSTALL--
+birdtray
+ccat
+clion
+clion-jre
+cobang
+cups-bjnp
+etcher-bin
+ferdium-bin
+imgcat
+intellij-idea-ultimate-edition
+intellij-idea-ultimate-edition-jre
+minecraft-launcher
+ocs-url # install packages from websites
+phpstorm
+phpstorm-jre
+postman-bin
+pycharm-professional
+python-pynput
+qrcp-bin
+rpi-imager-bin
+#rtl88x2bu-dkms-git # for WiFi USB adapters
+ttf-meslo # Nerdfont package
+ttf-ms-fonts
+typora
+ventoy-bin
+visual-studio-code-bin
+zoom # video conferences
